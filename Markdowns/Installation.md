@@ -61,9 +61,9 @@ Should return the version number like this:
 The above is an abbreviated [tutorial](https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
 
 
-```
-Happy Coding
-```
+
+## Happy Coding
+
 [Node.js Tutorials](Tutorials.md)
 
 ```
