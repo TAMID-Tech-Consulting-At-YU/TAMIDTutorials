@@ -6,7 +6,7 @@ Road map for understanding Node.js architecture:
 1. We must understand how Virtual Machines (VM) can emulate operating systems and processes to utilize a computer's physical hardware.
 2. We can then understand how WebAssembly uses a VM to (compile) parse and execute JavaScript in a web browser.
 3. Steps 1 and 2 will make it easy to understand how Google's V8 engine parses, compiles, and executes JavaScript in Node.js.
-4. After these steps, we will take a small dive into the C++ library libc, which will explain how Node.js achieves its parallel performance.
+4. After these steps, we will take a small dive into the C++ library libuv, which will explain how Node.js achieves its parallel performance.
 
 
 ### Virtual Machines (VMs)
