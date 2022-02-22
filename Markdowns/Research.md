@@ -31,3 +31,4 @@ WebAssembly is an instruction set ([Assembly Language](https://en.wikipedia.org/
 4. Garbage Collection: Uses a [Mark and Sweep Algorithm](https://www.geeksforgeeks.org/mark-and-sweep-garbage-collection-algorithm/) 
 
 ### Event Loop
+[This](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) is a great article about the call stack and schedule of events in the event loop.  
