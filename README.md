@@ -30,6 +30,11 @@ These [Tutorial Guides](Markdowns/Tutorials.md) will be step-by-step instruction
 [MongoDB](https://www.mongodb.com/) is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 1. [MongoDB Atlas](https://www.mongodb.com/try) is a multi-cloud database service by the same people that build MongoDB. Atlas simplifies deploying and managing your databases while offering the versatility you need to build resilient and performant global applications on the cloud providers of your choice.
 2. [Mongoose](https://mongoosejs.com/docs/) provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
+3. [This](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose) is a comprehensive tutorial.
+
+# MERN (Mongo Express React Node.js): Putting it all together 
+Congratulations!! You have just learned all the tools to be a full-stack web developer!!!!
+1. [Full-Stack tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
 
 ## Research/References
 [My Notes](Markdowns/Research.md) 
