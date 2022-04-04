@@ -13,11 +13,23 @@ The [Git Guide](Markdowns/Git.md) will help you set up git and learn some basic 
 
 This [Installation Guide](Markdowns/Installation.md) will help get Node and NPM installed in your repo.
 
-# Tutorials
+# Back-End
 
+## Node.js
 Tutorials that will walk you through creating your first Node.js website. Choose the one that interests you the most, and if you find others (I encourage you to look), please consult with me before beginning it to make sure it covers enough information. 
 
 These [Tutorial Guides](Markdowns/Tutorials.md) will be step-by-step instructions for creating your first Node.js website.
+
+# Front-End 
+## React
+[React](https://reactjs.org/) is a JavaScript library for building user interfaces.
+1. [Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+# Data Storage
+## MongoDB
+[MongoDB](https://www.mongodb.com/) is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+1. [MongoDB Atlas](https://www.mongodb.com/try) is a multi-cloud database service by the same people that build MongoDB. Atlas simplifies deploying and managing your databases while offering the versatility you need to build resilient and performant global applications on the cloud providers of your choice.
+2. [Mongoose](https://mongoosejs.com/docs/) provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box.
 
 ## Research/References
 [My Notes](Markdowns/Research.md) 
